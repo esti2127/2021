@@ -1,0 +1,25 @@
+body {
+  font-family: Verdana;
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+p {
+  font-family: Arial;
+}
+
+img {
+  display: block;
+  width: 250px;
+}
+
+btn {
+  color: inherit;
+  text-decoration: none;
+}
+
+.btn:hover{
+  color: brown;
+}
